@@ -1,0 +1,100 @@
+
+
+.heading{
+  margin:0px;
+  padding-left:350px;
+  padding-top:50px;
+  padding-bottom:50px;
+ background-image:url("src/c4.jfif");
+ min-height:100%;
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+ 
+  
+}
+.innerbox{
+  border-radius: 30px;
+  background-color:rgba(255, 228, 196, 0.701);
+  color:darkblue;
+  margin-right: 400px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  
+}
+.cont{
+  font-size:18px;
+  font-weight:bold;
+}
+.h{
+  padding-left: 80px;
+  padding-bottom: 20px;
+}
+.head{
+  padding-left: 100px;
+
+}
+
+input{
+  border-radius:5px;
+}
+.first{
+  display: inline;
+}
+.i1{
+  display:inline;
+}
+.fname{
+  margin-left: 75px;
+ width:150px;
+ 
+  
+}
+.lname{
+  margin-left: 76px;
+  width:150px;
+}
+
+
+.s{
+  margin-left: 102px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  width:157px;
+  border-radius:5px;
+}
+.age{
+  margin-left: 130px;
+  width:150px;
+}
+.email{
+  margin-left: 115px;
+  width:152px;
+}
+.address{
+  margin-left: 98px;
+  width:152px;
+  
+}
+.pass1{
+  margin-left: 85px;
+  width:152px;
+  
+}
+.pass2{
+  margin-left: 15px;
+  width:152px;
+}
+.create{
+  margin-top: 20px;
+  margin-left: 153px;
+  margin-bottom: 20px;
+  background-color:darkslateblue;
+  color:white;
+  font-size: bold;
+}
+  
+
+      
+
